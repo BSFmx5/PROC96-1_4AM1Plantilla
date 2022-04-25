@@ -1,1 +1,0 @@
-# ST-Solución C96
