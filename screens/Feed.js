@@ -10,7 +10,7 @@ export default class Feed extends Component {
                     justifyContent: "center",
                     alignItems: "center"
                 }}>
-                <Text>Alimentar</Text>
+                <Text>Inicio</Text>
             </View>
         )
     }
